@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "exchange-rate-mcp": {
+      "command": "/uv",
+      "args": [
+        "--directory",
+        "/path/to/your/mcp/server",
+        "run",
+        "main.py"
+      ]
+    }
+  }
+}
